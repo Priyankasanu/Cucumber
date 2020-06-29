@@ -1,0 +1,839 @@
+[20/06/11 12:00:28][INFO][Cucumber.Pages.WebdriverListener-42] WebDriver navigating to:'https://jira.perficient.com/secure/Dashboard.jspa'
+[20/06/11 12:00:36][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Login')]
+[20/06/11 12:00:36][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e6a2a44db05c10e273cfddae303a2633)] -> xpath: //h3[contains(text(),'Login')]]
+[20/06/11 12:00:36][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-username
+[20/06/11 12:00:36][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-username from '' to 'P.Shanmugam'
+[20/06/11 12:00:36][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-password
+[20/06/11 12:00:36][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-password from '' to 'Dream@2406'
+[20/06/11 12:00:36][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login
+[20/06/11 12:00:36][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e6a2a44db05c10e273cfddae303a2633)] -> id: login]
+[20/06/11 12:00:37][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e6a2a44db05c10e273cfddae303a2633)] -> id: login]
+[20/06/11 12:00:42][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 12:00:42][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e6a2a44db05c10e273cfddae303a2633)] -> xpath: //a[contains(@title,'Priyanka Shanmugam')]]
+[20/06/11 12:00:42][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 12:04:23][INFO][Cucumber.Pages.WebdriverListener-42] WebDriver navigating to:'https://jira.perficient.com/secure/Dashboard.jspa'
+[20/06/11 12:04:29][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Login')]
+[20/06/11 12:04:29][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //h3[contains(text(),'Login')]]
+[20/06/11 12:04:29][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-username
+[20/06/11 12:04:29][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-username from '' to 'P.Shanmugam'
+[20/06/11 12:04:29][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-password
+[20/06/11 12:04:29][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-password from '' to 'Dream@2406'
+[20/06/11 12:04:29][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login
+[20/06/11 12:04:29][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: login]
+[20/06/11 12:04:29][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: login]
+[20/06/11 12:04:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 12:04:33][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //a[contains(@title,'Priyanka Shanmugam')]]
+[20/06/11 12:04:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 12:04:40][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 12:04:40][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: home_link]
+[20/06/11 12:04:40][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 12:04:40][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 12:04:40][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: home_link]
+[20/06/11 12:04:40][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: home_link]
+[20/06/11 12:04:40][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Manage Dashboards')]
+[20/06/11 12:04:40][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 12:04:43][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 12:04:43][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 12:04:43][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: create_page]
+[20/06/11 12:04:43][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 12:04:43][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: create_page]
+[20/06/11 12:04:45][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: create_page]
+[20/06/11 12:04:45][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 12:04:45][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //h1[contains(text(),'Create New Dashboard')]]
+[20/06/11 12:04:45][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 12:04:45][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageName
+[20/06/11 12:04:46][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageName from '' to 'Test Dashboard'
+[20/06/11 12:04:46][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageDescription
+[20/06/11 12:04:46][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageDescription from '' to 'Test Description'
+[20/06/11 12:04:46][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: clonePageId
+[20/06/11 12:04:46][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: .//option[normalize-space(.) = "Blank dashboard"]
+[20/06/11 12:04:46][INFO][Cucumber.Pages.testdriver-95] The Element is selected successfully[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> name: clonePageId]
+[20/06/11 12:04:46][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: edit-entity-submit
+[20/06/11 12:04:46][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: edit-entity-submit]
+[20/06/11 12:04:47][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: edit-entity-submit]
+[20/06/11 12:04:47][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 12:04:47][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 12:04:47][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 12:04:47][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 12:04:47][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 12:04:49][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 12:04:49][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 12:04:49][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //h1[contains(text(),'Test Dashboard')]]
+[20/06/11 12:04:49][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 12:04:49][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 12:04:49][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: add-gadget]
+[20/06/11 12:04:49][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> id: add-gadget]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 12:04:51][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 12:04:52][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Assigned to Me')]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[@class='aui-icon-small aui-iconfont-more']
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@class,'item-link delete')]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (9fdeb633a9be113383c8915498cb033b)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 12:04:52][INFO][Cucumber.Pages.testdriver-145] Accepted the alert
+[20/06/11 12:04:52][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='aui-page-header-main']/h1[text()='Test Dashboard']
+[20/06/11 12:05:10][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 12:05:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='dashboard-item-header']
+[20/06/11 12:05:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: (//li[contains(@class,'empty-text')])
+[20/06/11 12:36:59][INFO][Cucumber.Pages.WebdriverListener-42] WebDriver navigating to:'https://jira.perficient.com/secure/Dashboard.jspa'
+[20/06/11 12:37:06][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Login')]
+[20/06/11 12:37:06][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //h3[contains(text(),'Login')]]
+[20/06/11 12:37:07][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-username
+[20/06/11 12:37:07][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-username from '' to 'P.Shanmugam'
+[20/06/11 12:37:07][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-password
+[20/06/11 12:37:07][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-password from '' to 'Dream@2406'
+[20/06/11 12:37:07][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login
+[20/06/11 12:37:07][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: login]
+[20/06/11 12:37:07][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: login]
+[20/06/11 12:37:11][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 12:37:11][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //a[contains(@title,'Priyanka Shanmugam')]]
+[20/06/11 12:37:11][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 12:37:18][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 12:37:18][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: home_link]
+[20/06/11 12:37:18][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 12:37:18][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 12:37:18][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: home_link]
+[20/06/11 12:37:18][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: home_link]
+[20/06/11 12:37:18][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Manage Dashboards')]
+[20/06/11 12:37:18][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 12:37:22][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 12:37:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 12:37:22][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: create_page]
+[20/06/11 12:37:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 12:37:22][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: create_page]
+[20/06/11 12:37:23][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: create_page]
+[20/06/11 12:37:23][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 12:37:23][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //h1[contains(text(),'Create New Dashboard')]]
+[20/06/11 12:37:23][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 12:37:23][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageName
+[20/06/11 12:37:23][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageName from '' to 'Test Dashboard'
+[20/06/11 12:37:23][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageDescription
+[20/06/11 12:37:23][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageDescription from '' to 'Test Description'
+[20/06/11 12:37:23][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: clonePageId
+[20/06/11 12:37:23][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: .//option[normalize-space(.) = "Blank dashboard"]
+[20/06/11 12:37:23][INFO][Cucumber.Pages.testdriver-95] The Element is selected successfully[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> name: clonePageId]
+[20/06/11 12:37:23][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: edit-entity-submit
+[20/06/11 12:37:23][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: edit-entity-submit]
+[20/06/11 12:37:25][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: edit-entity-submit]
+[20/06/11 12:37:25][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 12:37:25][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 12:37:25][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 12:37:25][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 12:37:25][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 12:37:26][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 12:37:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 12:37:26][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //h1[contains(text(),'Test Dashboard')]]
+[20/06/11 12:37:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 12:37:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 12:37:26][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: add-gadget]
+[20/06/11 12:37:26][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> id: add-gadget]
+[20/06/11 12:37:29][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 12:37:29][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 12:37:29][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 12:37:29][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 12:37:29][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 12:37:29][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 12:37:29][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 12:37:29][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 12:37:29][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 12:37:29][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 12:37:29][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 12:37:30][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Assigned to Me')]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[@class='aui-icon-small aui-iconfont-more']
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@class,'item-link delete')]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c1e521b8ac96623b15d032298ed58b00)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 12:37:30][INFO][Cucumber.Pages.testdriver-145] Accepted the alert
+[20/06/11 12:37:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='aui-page-header-main']/h1[text()='Test Dashboard']
+[20/06/11 12:37:48][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 12:37:49][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='dashboard-item-header']
+[20/06/11 12:37:49][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: (//li[contains(@class,'empty-text')])
+[20/06/11 15:24:54][INFO][Cucumber.Pages.WebdriverListener-42] WebDriver navigating to:'https://jira.perficient.com/secure/Dashboard.jspa'
+[20/06/11 15:25:17][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Login')]
+[20/06/11 15:25:17][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //h3[contains(text(),'Login')]]
+[20/06/11 15:25:17][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-username
+[20/06/11 15:25:17][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-username from '' to 'P.Shanmugam'
+[20/06/11 15:25:17][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-password
+[20/06/11 15:25:17][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-password from '' to 'Dream@2406'
+[20/06/11 15:25:17][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login
+[20/06/11 15:25:17][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: login]
+[20/06/11 15:25:17][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: login]
+[20/06/11 15:25:20][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 15:25:20][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //a[contains(@title,'Priyanka Shanmugam')]]
+[20/06/11 15:25:20][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 15:25:27][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:25:27][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: home_link]
+[20/06/11 15:25:27][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:25:27][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:25:27][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: home_link]
+[20/06/11 15:25:27][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: home_link]
+[20/06/11 15:25:28][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Manage Dashboards')]
+[20/06/11 15:25:28][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 15:25:30][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 15:25:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 15:25:30][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: create_page]
+[20/06/11 15:25:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 15:25:30][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: create_page]
+[20/06/11 15:25:32][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: create_page]
+[20/06/11 15:25:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 15:25:32][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //h1[contains(text(),'Create New Dashboard')]]
+[20/06/11 15:25:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 15:25:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageName
+[20/06/11 15:25:32][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageName from '' to 'Test Dashboard'
+[20/06/11 15:25:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageDescription
+[20/06/11 15:25:32][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageDescription from '' to 'Test Description'
+[20/06/11 15:25:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: clonePageId
+[20/06/11 15:25:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: .//option[normalize-space(.) = "Blank dashboard"]
+[20/06/11 15:25:32][INFO][Cucumber.Pages.testdriver-95] The Element is selected successfully[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> name: clonePageId]
+[20/06/11 15:25:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: edit-entity-submit
+[20/06/11 15:25:32][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: edit-entity-submit]
+[20/06/11 15:25:34][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: edit-entity-submit]
+[20/06/11 15:25:34][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:25:34][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 15:25:34][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:25:34][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:25:34][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 15:25:35][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 15:25:35][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 15:25:35][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //h1[contains(text(),'Test Dashboard')]]
+[20/06/11 15:25:35][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 15:25:35][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 15:25:35][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: add-gadget]
+[20/06/11 15:25:35][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: add-gadget]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 15:25:37][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:25:37][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:25:38][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Assigned to Me')]
+[20/06/11 15:25:38][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[@class='aui-icon-small aui-iconfont-more']
+[20/06/11 15:25:38][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 15:25:38][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 15:25:38][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@class,'item-link delete')]
+[20/06/11 15:25:38][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 15:25:38][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 15:25:38][INFO][Cucumber.Pages.testdriver-145] Accepted the alert
+[20/06/11 15:25:38][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='aui-page-header-main']/h1[text()='Test Dashboard']
+[20/06/11 15:25:56][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 15:25:56][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='dashboard-item-header']
+[20/06/11 15:25:56][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: (//li[contains(@class,'empty-text')])
+[20/06/11 15:25:56][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 15:25:56][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: add-gadget]
+[20/06/11 15:25:57][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (c70e423063c69638f3856fd44505501c)] -> id: add-gadget]
+[20/06/11 15:26:00][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 15:39:40][INFO][Cucumber.Pages.WebdriverListener-42] WebDriver navigating to:'https://jira.perficient.com/secure/Dashboard.jspa'
+[20/06/11 15:39:46][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Login')]
+[20/06/11 15:39:46][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //h3[contains(text(),'Login')]]
+[20/06/11 15:39:46][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-username
+[20/06/11 15:39:46][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-username from '' to 'P.Shanmugam'
+[20/06/11 15:39:46][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-password
+[20/06/11 15:39:46][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-password from '' to 'Dream@2406'
+[20/06/11 15:39:46][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login
+[20/06/11 15:39:46][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: login]
+[20/06/11 15:39:46][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: login]
+[20/06/11 15:39:49][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 15:39:49][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //a[contains(@title,'Priyanka Shanmugam')]]
+[20/06/11 15:39:50][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 15:39:57][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:39:57][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: home_link]
+[20/06/11 15:39:57][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:39:57][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:39:57][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: home_link]
+[20/06/11 15:39:57][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: home_link]
+[20/06/11 15:39:57][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Manage Dashboards')]
+[20/06/11 15:39:57][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 15:40:00][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 15:40:00][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 15:40:00][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: create_page]
+[20/06/11 15:40:00][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 15:40:00][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: create_page]
+[20/06/11 15:40:01][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: create_page]
+[20/06/11 15:40:01][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 15:40:01][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //h1[contains(text(),'Create New Dashboard')]]
+[20/06/11 15:40:01][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 15:40:01][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageName
+[20/06/11 15:40:01][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageName from '' to 'Test Dashboard'
+[20/06/11 15:40:01][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageDescription
+[20/06/11 15:40:01][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageDescription from '' to 'Test Description'
+[20/06/11 15:40:01][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: clonePageId
+[20/06/11 15:40:01][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: .//option[normalize-space(.) = "Blank dashboard"]
+[20/06/11 15:40:01][INFO][Cucumber.Pages.testdriver-95] The Element is selected successfully[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> name: clonePageId]
+[20/06/11 15:40:01][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: edit-entity-submit
+[20/06/11 15:40:01][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: edit-entity-submit]
+[20/06/11 15:40:02][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: edit-entity-submit]
+[20/06/11 15:40:02][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:40:02][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 15:40:03][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:40:03][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:40:03][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 15:40:03][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 15:40:03][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 15:40:03][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //h1[contains(text(),'Test Dashboard')]]
+[20/06/11 15:40:03][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 15:40:04][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 15:40:04][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: add-gadget]
+[20/06/11 15:40:04][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: add-gadget]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 15:40:06][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 15:40:06][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Assigned to Me')]
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[@class='aui-icon-small aui-iconfont-more']
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@class,'item-link delete')]
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 15:40:07][INFO][Cucumber.Pages.testdriver-145] Accepted the alert
+[20/06/11 15:40:07][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='aui-page-header-main']/h1[text()='Test Dashboard']
+[20/06/11 15:40:25][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 15:40:25][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='dashboard-item-header']
+[20/06/11 15:40:25][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: (//li[contains(@class,'empty-text')])
+[20/06/11 15:40:25][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 15:40:25][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: add-gadget]
+[20/06/11 15:40:26][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: add-gadget]
+[20/06/11 15:40:29][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 15:40:29][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]
+[20/06/11 15:40:29][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 15:40:29][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]
+[20/06/11 15:40:29][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 15:40:29][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 15:40:29][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:40:29][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:40:29][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:40:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Arsenale Dataplane Report')]
+[20/06/11 15:40:30][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 15:40:30][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: add-gadget]
+[20/06/11 15:40:30][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> id: add-gadget]
+[20/06/11 15:40:33][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 15:40:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'crucible-charting')]
+[20/06/11 15:40:33][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 15:40:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'crucible-charting')]
+[20/06/11 15:40:33][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 15:40:33][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 15:40:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:40:33][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:40:33][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6be63337b8019bfc7de4c70064ca5091)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:40:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Crucible Charts')]
+[20/06/11 15:54:51][INFO][Cucumber.Pages.WebdriverListener-42] WebDriver navigating to:'https://jira.perficient.com/secure/Dashboard.jspa'
+[20/06/11 15:54:51][INFO][Cucumber.Pages.WebdriverListener-42] WebDriver navigating to:'https://jira.perficient.com/secure/Dashboard.jspa'
+[20/06/11 15:55:01][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Login')]
+[20/06/11 15:55:01][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //h3[contains(text(),'Login')]]
+[20/06/11 15:55:01][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-username
+[20/06/11 15:55:01][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-username from '' to 'P.Shanmugam'
+[20/06/11 15:55:01][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-password
+[20/06/11 15:55:01][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-password from '' to 'Dream@2406'
+[20/06/11 15:55:01][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login
+[20/06/11 15:55:01][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: login]
+[20/06/11 15:55:02][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: login]
+[20/06/11 15:55:05][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 15:55:05][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //a[contains(@title,'Priyanka Shanmugam')]]
+[20/06/11 15:55:05][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 15:55:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Login')]
+[20/06/11 15:55:10][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> xpath: //h3[contains(text(),'Login')]]
+[20/06/11 15:55:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-username
+[20/06/11 15:55:10][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-username from '' to 'P.Shanmugam'
+[20/06/11 15:55:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-password
+[20/06/11 15:55:10][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-password from '' to 'Dream@2406'
+[20/06/11 15:55:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login
+[20/06/11 15:55:10][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> id: login]
+[20/06/11 15:55:10][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> id: login]
+[20/06/11 15:55:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:55:12][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: home_link]
+[20/06/11 15:55:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:55:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:55:12][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: home_link]
+[20/06/11 15:55:12][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: home_link]
+[20/06/11 15:55:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Manage Dashboards')]
+[20/06/11 15:55:12][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 15:55:14][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 15:55:14][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> xpath: //a[contains(@title,'Priyanka Shanmugam')]]
+[20/06/11 15:55:14][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 15:55:16][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 15:55:16][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 15:55:16][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: create_page]
+[20/06/11 15:55:16][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 15:55:16][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: create_page]
+[20/06/11 15:55:17][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: create_page]
+[20/06/11 15:55:17][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 15:55:17][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //h1[contains(text(),'Create New Dashboard')]]
+[20/06/11 15:55:17][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 15:55:17][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageName
+[20/06/11 15:55:17][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageName from '' to 'Test Dashboard'
+[20/06/11 15:55:17][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageDescription
+[20/06/11 15:55:17][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageDescription from '' to 'Test Description'
+[20/06/11 15:55:17][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: clonePageId
+[20/06/11 15:55:17][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: .//option[normalize-space(.) = "Blank dashboard"]
+[20/06/11 15:55:17][INFO][Cucumber.Pages.testdriver-95] The Element is selected successfully[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> name: clonePageId]
+[20/06/11 15:55:17][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: edit-entity-submit
+[20/06/11 15:55:17][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: edit-entity-submit]
+[20/06/11 15:55:18][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: edit-entity-submit]
+[20/06/11 15:55:18][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:55:18][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 15:55:18][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:55:18][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:55:18][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 15:55:20][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 15:55:20][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 15:55:20][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //h1[contains(text(),'Test Dashboard')]]
+[20/06/11 15:55:20][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 15:55:20][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 15:55:20][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: add-gadget]
+[20/06/11 15:55:20][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: add-gadget]
+[20/06/11 15:55:21][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:55:21][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> id: home_link]
+[20/06/11 15:55:21][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:55:21][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 15:55:21][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> id: home_link]
+[20/06/11 15:55:21][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> id: home_link]
+[20/06/11 15:55:21][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Manage Dashboards')]
+[20/06/11 15:55:21][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 15:55:22][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:55:22][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:55:23][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:55:23][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Assigned to Me')]
+[20/06/11 15:55:23][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[@class='aui-icon-small aui-iconfont-more']
+[20/06/11 15:55:23][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 15:55:23][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 15:55:23][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@class,'item-link delete')]
+[20/06/11 15:55:23][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 15:55:23][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 15:55:23][INFO][Cucumber.Pages.testdriver-145] Accepted the alert
+[20/06/11 15:55:23][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='aui-page-header-main']/h1[text()='Test Dashboard']
+[20/06/11 15:55:25][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 15:55:25][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 15:55:25][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> id: create_page]
+[20/06/11 15:55:25][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 15:55:25][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> id: create_page]
+[20/06/11 15:55:26][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> id: create_page]
+[20/06/11 15:55:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 15:55:26][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> xpath: //h1[contains(text(),'Create New Dashboard')]]
+[20/06/11 15:55:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 15:55:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageName
+[20/06/11 15:55:26][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageName from '' to 'Test Dashboard'
+[20/06/11 15:55:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageDescription
+[20/06/11 15:55:26][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageDescription from '' to 'Test Description'
+[20/06/11 15:55:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: clonePageId
+[20/06/11 15:55:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: .//option[normalize-space(.) = "Blank dashboard"]
+[20/06/11 15:55:26][INFO][Cucumber.Pages.testdriver-95] The Element is selected successfully[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> name: clonePageId]
+[20/06/11 15:55:26][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: edit-entity-submit
+[20/06/11 15:55:26][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> id: edit-entity-submit]
+[20/06/11 15:55:27][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (6ee89066ae62713715621956289acf3f)] -> id: edit-entity-submit]
+[20/06/11 15:55:30][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:55:30][ERROR][Cucumber.Pages.testdriver-78] java.lang.NullPointerException
+[20/06/11 15:55:33][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:55:33][ERROR][Cucumber.Pages.dashBoardPage-61] The Dashboard is not createdjava.lang.NullPointerException
+[20/06/11 15:55:36][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 15:55:41][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 15:55:41][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='dashboard-item-header']
+[20/06/11 15:55:41][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: (//li[contains(@class,'empty-text')])
+[20/06/11 15:55:41][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 15:55:41][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: add-gadget]
+[20/06/11 15:55:42][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: add-gadget]
+[20/06/11 15:55:45][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 15:55:45][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]
+[20/06/11 15:55:45][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 15:55:45][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]
+[20/06/11 15:55:45][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 15:55:45][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 15:55:45][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:55:45][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:55:45][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:55:46][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Arsenale Dataplane Report')]
+[20/06/11 15:55:46][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 15:55:46][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: add-gadget]
+[20/06/11 15:55:46][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> id: add-gadget]
+[20/06/11 15:55:49][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 15:55:49][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'crucible-charting')]
+[20/06/11 15:55:49][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 15:55:49][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'crucible-charting')]
+[20/06/11 15:55:49][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 15:55:49][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 15:55:50][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 15:55:50][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:55:50][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (e82fdbd4ea9a91e46091eff130e4b76b)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 15:55:50][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Crucible Charts')]
+[20/06/11 16:00:46][INFO][Cucumber.Pages.WebdriverListener-42] WebDriver navigating to:'https://jira.perficient.com/secure/Dashboard.jspa'
+[20/06/11 16:00:52][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Login')]
+[20/06/11 16:00:52][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //h3[contains(text(),'Login')]]
+[20/06/11 16:00:52][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-username
+[20/06/11 16:00:52][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-username from '' to 'P.Shanmugam'
+[20/06/11 16:00:52][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-password
+[20/06/11 16:00:52][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-password from '' to 'Dream@2406'
+[20/06/11 16:00:52][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login
+[20/06/11 16:00:52][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: login]
+[20/06/11 16:00:52][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: login]
+[20/06/11 16:00:56][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 16:00:56][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //a[contains(@title,'Priyanka Shanmugam')]]
+[20/06/11 16:00:56][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 16:01:03][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 16:01:03][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: home_link]
+[20/06/11 16:01:03][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 16:01:03][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 16:01:03][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: home_link]
+[20/06/11 16:01:03][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: home_link]
+[20/06/11 16:01:04][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Manage Dashboards')]
+[20/06/11 16:01:04][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 16:01:07][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 16:01:07][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 16:01:07][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: create_page]
+[20/06/11 16:01:07][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 16:01:07][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: create_page]
+[20/06/11 16:01:08][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: create_page]
+[20/06/11 16:01:08][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 16:01:08][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //h1[contains(text(),'Create New Dashboard')]]
+[20/06/11 16:01:08][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 16:01:08][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageName
+[20/06/11 16:01:08][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageName from '' to 'Test Dashboard'
+[20/06/11 16:01:08][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageDescription
+[20/06/11 16:01:08][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageDescription from '' to 'Test Description'
+[20/06/11 16:01:08][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: clonePageId
+[20/06/11 16:01:08][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: .//option[normalize-space(.) = "Blank dashboard"]
+[20/06/11 16:01:08][INFO][Cucumber.Pages.testdriver-95] The Element is selected successfully[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> name: clonePageId]
+[20/06/11 16:01:08][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: edit-entity-submit
+[20/06/11 16:01:08][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: edit-entity-submit]
+[20/06/11 16:01:09][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: edit-entity-submit]
+[20/06/11 16:01:09][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 16:01:09][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 16:01:09][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 16:01:09][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 16:01:09][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 16:01:10][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 16:01:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 16:01:10][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //h1[contains(text(),'Test Dashboard')]]
+[20/06/11 16:01:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 16:01:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 16:01:10][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: add-gadget]
+[20/06/11 16:01:10][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: add-gadget]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 16:01:12][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 16:01:12][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Assigned to Me')]
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[@class='aui-icon-small aui-iconfont-more']
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@class,'item-link delete')]
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 16:01:13][INFO][Cucumber.Pages.testdriver-145] Accepted the alert
+[20/06/11 16:01:13][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='aui-page-header-main']/h1[text()='Test Dashboard']
+[20/06/11 16:01:31][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 16:01:31][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='dashboard-item-header']
+[20/06/11 16:01:31][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: (//li[contains(@class,'empty-text')])
+[20/06/11 16:01:31][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 16:01:31][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 16:01:32][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 16:01:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 16:01:32][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 16:01:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 16:01:32][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 16:01:32][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 16:01:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 16:01:32][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:01:32][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:01:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 16:01:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 16:01:33][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: add-gadget]
+[20/06/11 16:01:33][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: add-gadget]
+[20/06/11 16:01:36][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 16:01:36][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]
+[20/06/11 16:01:36][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 16:01:36][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]
+[20/06/11 16:01:36][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 16:01:36][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 16:01:36][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 16:01:36][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:01:36][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:01:38][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Arsenale Dataplane Report')]
+[20/06/11 16:01:38][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 16:01:38][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: add-gadget]
+[20/06/11 16:01:38][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> id: add-gadget]
+[20/06/11 16:01:41][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 16:01:41][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'crucible-charting')]
+[20/06/11 16:01:41][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 16:01:41][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'crucible-charting')]
+[20/06/11 16:01:41][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 16:01:41][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 16:01:41][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 16:01:41][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:01:41][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7e4c286f1307880c0abc5381c81bf411)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:01:41][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Crucible Charts')]
+[20/06/11 16:09:45][INFO][Cucumber.Pages.WebdriverListener-42] WebDriver navigating to:'https://jira.perficient.com/secure/Dashboard.jspa'
+[20/06/11 16:09:53][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Login')]
+[20/06/11 16:09:53][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //h3[contains(text(),'Login')]]
+[20/06/11 16:09:53][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-username
+[20/06/11 16:09:53][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-username from '' to 'P.Shanmugam'
+[20/06/11 16:09:53][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login-form-password
+[20/06/11 16:09:53][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.id: login-form-password from '' to 'Dream@2406'
+[20/06/11 16:09:53][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: login
+[20/06/11 16:09:53][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: login]
+[20/06/11 16:09:53][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: login]
+[20/06/11 16:09:57][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 16:09:57][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //a[contains(@title,'Priyanka Shanmugam')]]
+[20/06/11 16:09:57][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@title,'Priyanka Shanmugam')]
+[20/06/11 16:10:04][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 16:10:04][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: home_link]
+[20/06/11 16:10:04][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 16:10:04][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: home_link
+[20/06/11 16:10:04][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: home_link]
+[20/06/11 16:10:04][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: home_link]
+[20/06/11 16:10:04][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Manage Dashboards')]
+[20/06/11 16:10:04][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 16:10:08][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //a[contains(text(),'Manage Dashboards')]]
+[20/06/11 16:10:08][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 16:10:08][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: create_page]
+[20/06/11 16:10:08][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: create_page
+[20/06/11 16:10:08][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: create_page]
+[20/06/11 16:10:09][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: create_page]
+[20/06/11 16:10:09][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 16:10:09][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //h1[contains(text(),'Create New Dashboard')]]
+[20/06/11 16:10:09][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Create New Dashboard')]
+[20/06/11 16:10:09][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageName
+[20/06/11 16:10:09][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageName from '' to 'Test Dashboard'
+[20/06/11 16:10:09][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: portalPageDescription
+[20/06/11 16:10:09][INFO][Cucumber.Pages.WebdriverListener-112] WebDriver changing value in element found By.name: portalPageDescription from '' to 'Test Description'
+[20/06/11 16:10:09][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.name: clonePageId
+[20/06/11 16:10:09][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: .//option[normalize-space(.) = "Blank dashboard"]
+[20/06/11 16:10:09][INFO][Cucumber.Pages.testdriver-95] The Element is selected successfully[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> name: clonePageId]
+[20/06/11 16:10:09][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: edit-entity-submit
+[20/06/11 16:10:09][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: edit-entity-submit]
+[20/06/11 16:10:10][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: edit-entity-submit]
+[20/06/11 16:10:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 16:10:10][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 16:10:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 16:10:10][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']
+[20/06/11 16:10:10][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 16:10:11][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //div[@class='favourite-item']/a[text()='Test Dashboard']]
+[20/06/11 16:10:11][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 16:10:11][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //h1[contains(text(),'Test Dashboard')]]
+[20/06/11 16:10:11][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h1[contains(text(),'Test Dashboard')]
+[20/06/11 16:10:11][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 16:10:11][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: add-gadget]
+[20/06/11 16:10:11][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: add-gadget]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //a[contains(text(),'Load all gadgets')]]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'activitystream-gadget.xml')]]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:10:13][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 16:10:14][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //div[contains(@data-item-id,'assigned-to-me-gadget.xml')]//button]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Assigned to Me')]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[@class='aui-icon-small aui-iconfont-more']
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[@class='aui-icon-small aui-iconfont-more']]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(@class,'item-link delete')]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //a[contains(@class,'item-link delete')]]
+[20/06/11 16:10:14][INFO][Cucumber.Pages.testdriver-145] Accepted the alert
+[20/06/11 16:10:14][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='aui-page-header-main']/h1[text()='Test Dashboard']
+[20/06/11 16:10:32][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //h3[contains(text(),'Activity Stream')]
+[20/06/11 16:10:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //div[@class='dashboard-item-header']
+[20/06/11 16:10:32][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: (//li[contains(@class,'empty-text')])
+[20/06/11 16:10:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //a[contains(text(),'add a new gadget.')]
+[20/06/11 16:10:33][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 16:10:33][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //a[contains(text(),'add a new gadget.')]]
+[20/06/11 16:10:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'favourite-filters')]
+[20/06/11 16:10:33][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'favourite-filters')]]
+[20/06/11 16:10:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'favourite-filters')]
+[20/06/11 16:10:33][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'favourite-filters')]]
+[20/06/11 16:10:33][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'favourite-filters')]]
+[20/06/11 16:10:33][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 16:10:33][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:10:33][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:10:34][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Favorite Filters')]
+[20/06/11 16:10:34][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 16:10:34][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: add-gadget]
+[20/06/11 16:10:34][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: add-gadget]
+[20/06/11 16:10:37][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 16:10:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]
+[20/06/11 16:10:37][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 16:10:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]
+[20/06/11 16:10:37][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 16:10:37][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'arsenaleDataplaneGadget')]]
+[20/06/11 16:10:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 16:10:37][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:10:37][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:10:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Arsenale Dataplane Report')]
+[20/06/11 16:10:37][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.id: add-gadget
+[20/06/11 16:10:37][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: add-gadget]
+[20/06/11 16:10:37][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> id: add-gadget]
+[20/06/11 16:10:40][ERROR][Cucumber.Pages.WebdriverListener-140] WebDriver error: Element not found By.xpath: //a[contains(text(),'Load all gadgets')]
+[20/06/11 16:10:40][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'crucible-charting')]
+[20/06/11 16:10:40][INFO][Cucumber.Pages.testdriver-75] The element is visible[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 16:10:40][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //button[contains(@data-item-id,'crucible-charting')]
+[20/06/11 16:10:40][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 16:10:40][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //button[contains(@data-item-id,'crucible-charting')]]
+[20/06/11 16:10:40][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //span[contains(@class,'close-dialog')]
+[20/06/11 16:10:40][INFO][Cucumber.Pages.WebdriverListener-93] WebDriver clicking on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:10:41][INFO][Cucumber.Pages.WebdriverListener-98] WebDriver clicked on[[ChromeDriver: chrome on WINDOWS (7171df20e37106ed7054db670d2ff4fc)] -> xpath: //span[contains(@class,'close-dialog')]]
+[20/06/11 16:10:41][INFO][Cucumber.Pages.WebdriverListener-88] WebDriver found By.xpath: //h3[contains(text(),'Crucible Charts')]
